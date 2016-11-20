@@ -1,0 +1,9 @@
+service/TwoAxleVehicleMovementServiceTest.class
+factory/DayCalculatorFactoryTest.class
+service/TwoAxleDayCalculatorTest.class
+handler/VehicleHandlerTest$2.class
+handler/VehicleHandlerTest.class
+factory/VehicleFactoryTest.class
+handler/VehicleHandlerTest$1.class
+util/VehicleFileReaderTest.class
+singleton/VehicleStorageTest.class
